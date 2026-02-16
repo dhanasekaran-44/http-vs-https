@@ -1,0 +1,1 @@
+HTTP (HyperText Transfer Protocol) and HTTPS (HyperText Transfer Protocol Secure) are protocols used to transfer data between a web browser and a server. HTTP sends data in plain text, making it less secure, while HTTPS encrypts the data using SSL/TLS, ensuring safe and secure communication over the internet.
